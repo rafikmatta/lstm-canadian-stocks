@@ -1,4 +1,4 @@
-# Deep Learning for Prediction of stock price movement using momentum 
+# Applying reinforcment learning and LSTMs to predict stock price movement using momentum 
 
 ## Abstract
 
