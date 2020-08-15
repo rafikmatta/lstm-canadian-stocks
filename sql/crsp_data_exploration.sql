@@ -1,1 +1,0 @@
-select permno from research_data.crsp group by permno

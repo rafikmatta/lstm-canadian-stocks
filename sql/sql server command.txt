@@ -1,1 +1,0 @@
-LOAD DATA LOW_PRIORITY LOCAL INFILE 'C:\\Users\\rafik\\Desktop\\research_data\\DCRSP.csv' REPLACE INTO TABLE research_data.dcrsp CHARACTER SET latin1 FIELDS TERMINATED BY ',' LINES TERMINATED BY '\r\n';
